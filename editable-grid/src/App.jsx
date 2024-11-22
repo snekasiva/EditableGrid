@@ -38,6 +38,8 @@ const App = () => {
 
   return (
     <Box>
+      <h1>Editable-Grid</h1>
+      <br/>
       <DataGrid
         rows={rows}
         columns={[
